@@ -1,2 +1,2 @@
 # notebooks
-Data Science Notebooks
+AI/ML/DS Notebooks
