@@ -1,20 +1,14 @@
 {
   "id": "amgadmadkour/titanic",
-  "title": "Titanic - Machine Learning from Disaster",
+  "title": "Titanic",
   "code_file": "titanic.ipynb",
   "language": "python",
   "kernel_type": "notebook",
-  "is_private": "true",
+  "is_private": "false",
   "enable_gpu": "false",
   "enable_tpu": "false",
   "enable_internet": "true",
-  "dataset_sources": [
-    {
-      "name": "titanic-hf",
-      "type": "huggingface",
-      "repo_id": "amgadmadkour/titanic"
-    }
-  ],
+  "dataset_sources": [],
   "competition_sources": [],
   "kernel_sources": [],
   "model_sources": []
