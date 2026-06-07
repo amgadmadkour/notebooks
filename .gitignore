@@ -1,6 +1,9 @@
 # Raw datasets
 data/
 
+# Models
+model/
+
 # Python
 __pycache__/
 *.py[cod]
